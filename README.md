@@ -1,2 +1,2 @@
-# floofyhorses-floofyhorses.github.io
+floofyhorses.github.io
 Website for sweetponysky collectibles
