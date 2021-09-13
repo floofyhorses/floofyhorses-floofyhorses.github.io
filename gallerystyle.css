@@ -1,0 +1,19 @@
+.container {
+
+display: grid;
+grid-gap: 20px;
+grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+grid-template-rows: 1fr;
+background-color: lightpink;
+
+}
+
+img {
+	
+    margin: 10px;
+    transition:all 1s;
+}
+
+img:hover {
+     transform: scale(1.1); 
+}
